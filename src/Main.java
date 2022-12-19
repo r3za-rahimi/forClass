@@ -24,6 +24,7 @@ public class Main {
 
 
         System.out.println(ex.getMinValue());
+        System.out.println(ex.getMinValue());
 
 
         // to do
