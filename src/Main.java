@@ -61,5 +61,6 @@ public class Main {
 //        sub array az flan ta flan
 //        array create with scanner
 //        and done
+//        and done
     }
 }
