@@ -31,7 +31,7 @@ public class Calculator {
 
     public int sum(){
 
-        return a+b+1;
+        return a+b;
 
     }
 

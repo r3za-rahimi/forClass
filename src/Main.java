@@ -24,7 +24,6 @@ public class Main {
 
 
         System.out.println(ex.getMinValue());
-        System.out.println(ex.getMinValue());
 
 
         // to do
@@ -62,6 +61,6 @@ public class Main {
 //        sub array az flan ta flan
 //        array create with scanner
 //        and done
-//        and done
+//
     }
 }
